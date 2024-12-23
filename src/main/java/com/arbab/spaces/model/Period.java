@@ -1,0 +1,5 @@
+package com.arbab.spaces.model;
+
+public enum Period {
+    DAILY, WEEKLY, BIWEEKLY, MONTHLY, BIMONTHLY, EVERY_THREE_MONTHS, QUARTERLY, EVERY_SIX_MONTHS, ANNUALLY
+}
